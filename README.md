@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello World! I'm Bastian Nazaromi 👋
 
 <!--
 **bastiannazaromi/bastiannazaromi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+-   🔭 I’m currently working on @poltekharber
+-   🌱 I’m currently learning [**Laravel**](https://laravel.com) Framework
+    😃😃😃
+
+![Happy birtday](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa28ybWtnYXFkN21wMHQyYnRxa2Qwb3c3anA3OXdpd2ZlczJpZW4zayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FnsyaPjzV7ZdNLB9sx/giphy.gif)
