@@ -40,8 +40,4 @@ Here are some ideas to get you started:
 
 <p align="left">Play game with me</p>
 
-###
-
 <img src="https://raw.githubusercontent.com/bastiannazaromi/bastiannazaromi/output/snake.svg" alt="Snake animation" />
-
-###
