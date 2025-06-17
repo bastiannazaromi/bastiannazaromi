@@ -38,4 +38,4 @@ Here are some ideas to get you started:
 
 ![Bastian's GitHub stats](https://github-readme-stats.vercel.app/api?username=bastiannazaromi&show_icons=true&theme=gruvbox)
 
-<img src="https://raw.githubusercontent.com/bastiannazaromi/bastiannazaromi/output/snake.svg" alt="Snake animation" />
+![GitHub Snake](https://github.com/bastiannazaromi/bastiannazaromi/blob/output/github-contribution-grid-snake.svg)
