@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 -   🔭 I’m currently working on [**@poltekharber**](https://poltekharber.ac.id)
 -   🌱 I’m currently learning **MERN Technology**
 
-##### Skills
+##### I code with
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,php,python,cpp&theme=light)](https://skillicons.dev)
 
