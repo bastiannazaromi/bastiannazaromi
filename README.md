@@ -33,3 +33,7 @@ Here are some ideas to get you started:
 ##### Contact with me
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/bastian.nazaromi) [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/bastian.nazaromi) [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@maykomputer5117) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bastian-nazaromi-9950a8198)
+
+##### My Github Stats
+
+![Bastian's GitHub stats](https://github-readme-stats.vercel.app/api?username=bastiannazaromi&show_icons=true&theme=gruvbox)
